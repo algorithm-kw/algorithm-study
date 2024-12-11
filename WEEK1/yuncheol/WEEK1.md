@@ -17,3 +17,19 @@
    2. update delete_map
    3. update answer_map
    4. mapping answer_map & answer
+
+### k진수에서 소수 개수 구하기
+
+1. 학습 내용
+
+   ```java
+   // 소수 판별
+
+   // 진법 변경
+
+   // split (-> 문제 요구사항을 통해 파악)
+   ```
+
+2. 이후 고민해볼 사항
+
+   - 내가 처음 시도한 방식과 split 비교 (왜 내 방식이 틀렸는가?)
