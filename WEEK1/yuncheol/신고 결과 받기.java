@@ -2,7 +2,6 @@ import java.util.*;
 
 class Solution {
     public int[] solution(String[] id_list, String[] report, int k) {
-        
         int id_count = id_list.length;
         int report_count = report.length;
         
