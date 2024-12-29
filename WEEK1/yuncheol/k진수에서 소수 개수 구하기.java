@@ -29,17 +29,6 @@ class Solution {
         return list.stream().toArray(String[]::new);
     }
     
-    private String[] deleteEmptyString(String[] strArray) {
-        List<String> list = new ArrayList<>();
-        for (String str : strArray) {
-            if (!str.equals("")) {
-                list.add(str);
-            }
-        }
-        
-        return list.stream().toArray(String[]::new);
-    }
-    
     private String toCustomNumber(long n, long k) {
         String customNumber = "";
         
